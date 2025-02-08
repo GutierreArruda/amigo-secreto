@@ -1,3 +1,7 @@
+amigo-secreto-nu-rosy.vercel.app
+
+
+
 # Projeto Amigo Secreto
 
 Este é um projeto para realizar sorteios de amigo secreto, onde os usuários podem adicionar nomes dos participantes e sortear os pares de forma aleatória.
